@@ -1,6 +1,5 @@
 # Used Car Price Prediction Project
 
-![Used Car](used-car.jpg)
 
 This repository contains a machine learning project for predicting the prices of used cars. The goal of this project is to build a model that can accurately estimate the price of a car based on various attributes such as make, model, year, mileage, and more. By leveraging machine learning techniques, this project aims to assist both buyers and sellers in making informed decisions.
 
